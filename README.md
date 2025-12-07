@@ -83,5 +83,5 @@ This project runs in 3 distinct phases.
 ### Phase 1: Data Collection
 Before the AI can work, it must learn *your* specific movements.
 ```bash
-python src/1_collect_data.py
+python src/skeleton.py
 ```
