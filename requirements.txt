@@ -1,0 +1,17 @@
+# --- Computer Vision & Image Processing ---
+opencv-python       # For capturing video from webcam
+mediapipe           # For extracting skeletal landmarks
+numpy               # For handling the coordinate data arrays
+
+# --- Deep Learning (The Brain) ---
+# Note: This installs Keras automatically
+tensorflow          
+
+# --- Data Utilities ---
+scikit-learn        # Useful for splitting training/testing data
+matplotlib          # Optional: For plotting accuracy graphs for your report
+
+# --- Game Controller Emulation ---
+# Note: vgamepad works best on Windows. 
+# If on Linux/Mac, you might need different libraries.
+vgamepad
