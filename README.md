@@ -60,7 +60,7 @@ The project is divided into three core logical modules:
 ### Setup
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/yourusername/gesture-fighter.git](https://github.com/yourusername/gesture-fighter.git)
+    git clone [https://github.com/Andy12-14/gesture-fighter.git](https://github.com/Andy12-14/gesture-fighter.git)
     cd gesture-fighter
     ```
 2.  **Create and activate an conda environnement(if u have python > 3.10 )**
